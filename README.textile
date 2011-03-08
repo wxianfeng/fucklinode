@@ -12,3 +12,12 @@ h2. why?
 h2. FUCK by WEBSITE!!!
 
 "fucklinode!":http://fucklinode.heroku.com
+
+h2. developed
+
+developed by html5 + css3 , stolen from :
+
+"http://mrdoob.com/projects/chromeexperiments/ball_pool/":http://mrdoob.com/projects/chromeexperiments/ball_pool/
+"fuckgpl.com":http://www.fuckgpl.com
+
+
