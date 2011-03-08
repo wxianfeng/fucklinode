@@ -1,0 +1,14 @@
+h1. fucklinode!
+
+h2. why?
+
+* Suddenly one day, from my credit card charged $40 more
+* not stable
+* expensive price
+* Service is bad
+* Speed is slowly
+* ...
+
+h2. FUCK by WEBSITE!!!
+
+"fucklinode!":http://fucklinode.heroku.com
