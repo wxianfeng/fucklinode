@@ -3,7 +3,7 @@ h1. fucklinode!
 h2. why?
 
 * Suddenly one day, from my credit card charged $40 more
-* not stable
+* not stable , always  power outage 
 * expensive price
 * Service is bad
 * Speed is slowly
